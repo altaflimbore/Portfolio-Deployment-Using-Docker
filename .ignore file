@@ -1,0 +1,12 @@
+# Ignore Docker related files that shouldn’t be pushed
+*.log
+*.tmp
+
+# Ignore Node.js dependencies (if any)
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore system files
+.DS_Store
